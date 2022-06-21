@@ -1,2 +1,2 @@
 # Economic-Analysis-Project
-Using my pandas and matplotlib knowledge to analyze economic data. Very much a work in progress.
+I wanted a project where I could refresh my pandas and matplotlib knowledge, so after a little research I found https://datahub.io/collections and started looking for correlations in the data. Will update later.
